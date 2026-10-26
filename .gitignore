@@ -1,0 +1,15 @@
+# CONFIGURATIONS
+
+**appsettings.Development.json
+.vs
+.vscode/settings.json
+
+# BUILD TARGETS
+obj
+bin
+
+# UI
+node_modules
+.next
+UI/web/out
+/Backend/TestResults
